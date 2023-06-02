@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <!--<class name="com.eCommerce.v001.eCommerce_tc6_hybridApp"/>
+      <class name="com.eCommerce.v001.eCommerce_tc5"/>
+      <class name="com.eCommerce.v001.eCommerce_tc4"/>
+      <class name="com.mobile.automation.BaseTest"/>
+      <class name="com.eCommerce.v001.eCommerce_tc1"/>
+      <class name="com.eCommerce.v001.eCommerce_tc3"/>
+      <class name="com.eCommerce.v001.eCommerce_tc2"/>
+      <class name="com.mobile.automation.AppiumBasics"/>
+      <class name="com.eCommerce.v001.BaseTest"/>
+      <class name="com.mobile.automation.DirectNaviagationToMobilePages"/>
+      <class name="com.mobile.automation.AppiumMobileGestures"/>
+      <class name="com.eCommerce.v001.mobileBrowsertest"/>
+      <class name="com.eCommerce.v001.BrowserBaseTest"/>-->
+      <class name="com.eCommerce.v001.eCommerce_tc1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
